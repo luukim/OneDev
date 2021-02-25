@@ -1,0 +1,15 @@
+Anyone=1
+AND=2
+OR=3
+USER=4
+GROUP=5
+EXCEPT=6
+WS=7
+Value=8
+'anyone'=1
+'and'=2
+'or'=3
+'user'=4
+'group'=5
+'except'=6
+' '=7

@@ -1,0 +1,14 @@
+T__0=1
+T__1=2
+T__2=3
+DIGIT=4
+USER=5
+GROUP=6
+WS=7
+Value=8
+'and'=1
+':'=2
+'all'=3
+'user'=5
+'group'=6
+' '=7

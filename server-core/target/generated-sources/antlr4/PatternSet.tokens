@@ -1,0 +1,6 @@
+Quoted=1
+NQuoted=2
+Excluded=3
+WS=4
+'-'=3
+' '=4

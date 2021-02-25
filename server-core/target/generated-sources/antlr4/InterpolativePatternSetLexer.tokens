@@ -1,0 +1,7 @@
+Variable=1
+Quoted=2
+NQuoted=3
+Excluded=4
+WS=5
+'-'=4
+' '=5

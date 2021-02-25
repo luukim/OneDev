@@ -1,0 +1,7 @@
+/Users/kimluu/OneDrive - polymtl.ca/Polytechnique/H2021/LOG8371/onedev/server-plugin/server-plugin-authenticator-ldap/src/main/java/io/onedev/server/plugin/authenticator/ldap/SearchGroupsUsingFilter.java
+/Users/kimluu/OneDrive - polymtl.ca/Polytechnique/H2021/LOG8371/onedev/server-plugin/server-plugin-authenticator-ldap/src/main/java/io/onedev/server/plugin/authenticator/ldap/ActiveDirectoryAuthenticator.java
+/Users/kimluu/OneDrive - polymtl.ca/Polytechnique/H2021/LOG8371/onedev/server-plugin/server-plugin-authenticator-ldap/src/main/java/io/onedev/server/plugin/authenticator/ldap/GetGroupsUsingAttribute.java
+/Users/kimluu/OneDrive - polymtl.ca/Polytechnique/H2021/LOG8371/onedev/server-plugin/server-plugin-authenticator-ldap/src/main/java/io/onedev/server/plugin/authenticator/ldap/LdapModule.java
+/Users/kimluu/OneDrive - polymtl.ca/Polytechnique/H2021/LOG8371/onedev/server-plugin/server-plugin-authenticator-ldap/src/main/java/io/onedev/server/plugin/authenticator/ldap/DoNotRetrieveGroups.java
+/Users/kimluu/OneDrive - polymtl.ca/Polytechnique/H2021/LOG8371/onedev/server-plugin/server-plugin-authenticator-ldap/src/main/java/io/onedev/server/plugin/authenticator/ldap/LdapAuthenticator.java
+/Users/kimluu/OneDrive - polymtl.ca/Polytechnique/H2021/LOG8371/onedev/server-plugin/server-plugin-authenticator-ldap/src/main/java/io/onedev/server/plugin/authenticator/ldap/GroupRetrieval.java
